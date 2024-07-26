@@ -5,10 +5,7 @@
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
-    "start": "nodemon backend/server.js",
-    "dev": "set NODE_ENV=development&&nodemon backend/server.js",
-    "prod": "set NODE_ENV=production&&nodemon backend/server.js",
-    "seeder": "node backend/utils/seeder.js"
+    "start": "nodemon backend/server.js"
   },
   "author": "",
   "license": "ISC",
