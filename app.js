@@ -15,7 +15,7 @@ app.use('/uploads', express.static(path.join(__dirname,'uploads') ) )
 const auth= require('./routes/auth')
 const product = require('./routes/product')
 const order = require('./routes/order')
-const payment = require('./routes/payment')
+// const payment = require('./routes/payment')
 
 app.use('/api/v1/',auth);
 app.use('/api/v1/', product);
