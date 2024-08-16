@@ -1,127 +1,347 @@
-
 [
     {
-        "name": "Aquarium Accessories",
-        "price": 100,
-        "description":"You can able to use",
+        "name": "Vivo T2x 5G",
+        "price": 12999,
+        "description": "Vivo T2x 5G (6GB RAM + 128GB) price in India is ₹12,999. You can buy Vivo T2x 5G (6GB RAM + 128GB) online on shoope at lowest price",
         "ratings": 4.5,
         "images": [
             {
-                "image": "/images/products/1.jpg"
+                "image": "https://cdn1.smartprix.com/rx-idq6N7SMW-w420-h420/vivo-t2x-5g-6gb-ram.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1vumkzdli?v=1rwwuxx"
             }
         ],
-        "category": "Aquarium Accessories",
-        "seller": "Wonder Aqua Garden",
-        "stock": 60,
-        "numOfReviews": 10,
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    }, 
+    {
+        "name": "Vivo v27 5G",
+        "price": 35000,
+        "description": "The Vivo V27 5G smartphone features a wide 3D curved display so that you can experience immersive viewing. It has a colour-changing glass which changes the colour of your smartphone as light changes. Its 50 MP camera enables you with the power to capture stunning images even at night",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/b/f/m/-original-imagna3ezkdusyrz.jpeg?q=70&crop=false"
+            },
+            {
+                "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/mobile/b/f/m/-original-imagna3ezkdusyrz.jpeg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 5,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Aquarium Medicines",
-        "price": 60,
-        "description": "Best Medicine",
-        "ratings": 5,
-        "images": [],
-        "category": "Aquarium Medicines",
-        "seller": "Wonder Aqua Garden",
-        "stock": 51,
-        "numOfReviews": 9,
+        "name": "Vivo y33 5G",
+        "price": 35000,
+        "description": "The Vivo V27 5G smartphone features a wide 3D curved display so that you can experience immersive viewing. It has a colour-changing glass which changes the colour of your smartphone as light changes. Its 50 MP camera enables you with the power to capture stunning images even at night",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-ieDmtv9Sk-w1200-h1200/eDmtv9Sk.jpg"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd138e18e9y?v=1rcqifg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 8,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Aquascaping Tools",
-        "price": 61,
-        "description": "Helpful",
-        "ratings": 4,
-        "images": [],
-        "category": "Aquascaping Tools",
-        "seller": "Wonder Aqua Garden",
-        "stock":51,
-        "numOfReviews": 8,
+        "name": "Vivo y 10 5G",
+        "price": 12490,
+        "description": "Vivo Y10 expected price in India starts from ₹12,490. Take a look at Vivo Y10 detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-ihcOHJYqA-w420-h420/vivo-y10.jpg"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd12lzt79br?v=1s1jkyd"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 8,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Fish Foods",
-        "price": 50,
-        "description": "Farm Feed",
-        "ratings": 5,
-        "images": [],
-        "category": "Fish Foods",
-        "seller": "Wonder Aqua Garden",
-        "stock": 61,
-        "numOfReviews": 60,
+        "name": "Vivo V40 Pro",
+        "price": 49999,
+        "description": "Vivo V40 Pro price in India starts from ₹49,999. It is available at lowest price on Croma in India as on Aug 16, 2024. Take a look at Vivo V40 Pro detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-ioaKer8pY-w420-h420/vivo-v40-pro.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd13pe1058o?v=1shudk3"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 8,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Fish Tanks & Bowls",
-        "price": 60,
-        "description": "Needed",
-        "ratings": 3,
-        "images": [],
-        "category": "Fish Tanks & Bowls",
-        "seller": "Wonder Aqua Garden",
-        "stock": 50,
-        "numOfReviews": 9,
+        "name": "Vivo V30 5G",
+        "price": 27687,
+        "description": "Vivo V30 5G price in India starts from ₹27,687. It is available at lowest price on shope in India as on Aug 16, 2024. Take a look at Vivo V30 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iVNbyRECY-w420-h420/vivo-v30-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd13n6nauwh?v=1sbywrn"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 8,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Live Fishes",
-        "price": 30,
-        "description": "Wonderful Collection of fishes",
-        "ratings": 5,
-        "images": [],
-        "category": "Live Fishes",
-        "seller": "Wonder Aqua Garden",
-        "stock": 109,
-        "numOfReviews": 8,
+        "name": "Vivo T3 5G",
+        "price": 19999,
+        "description": "Vivo T3 5G price in India starts from ₹19,999. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at Vivo T3 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iJgJnXY13-w420-h420/vivo-t3-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1c8fb237r?v=1sb1yhg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Live Pets",
-        "price": 500,
-        "description": "Mind Relaxing",
-        "ratings": 5,
-        "images": [],
-        "category": "Live Pets",
-        "seller": "Wonder Aqua Garden",
-        "stock": 60,
-        "numOfReviews": 9,
+        "name": "Vivo T3 Lite 5G",
+        "price": 10000,
+        "description": "Vivo T3 5G price in India starts from ₹10000. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at Vivo T3 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-ifZMlM4mw-w420-h420/vivo-t3-lite-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1mbrtnq7k?v=1sfq85b"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Live Aqua Plants",
-        "price": 9,
-        "description": "Planted Aqua",
-        "ratings": 3.5,
-        "images": [],
-        "category": "Live Aqua Plants",
-        "seller": "Wonder Aqua Garden",
-        "stock": 50,
-        "numOfReviews": 43,
+        "name": "Vivo V31 Pro 5G",
+        "price": 42999,
+        "description": "Vivo V31 Pro 5G expected price in India starts from ₹42,990. Take a look at Vivo V31 Pro 5G detailed specifications and features..",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iUsZfhSOR-w420-h420/vivo-v31-pro-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1ns9resl2?v=1sbgj47"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Pet Foods",
-        "price": 60,
-        "description": "essential for pet lovers",
-        "ratings": 5,
-        "images": [],
-        "category": "Pet Foods",
-        "seller": "Wonder Aqua Garden",
-        "stock": 61,
-        "numOfReviews": 9,
+        "name": "OnePlus Nord 4 5G",
+        "price": 29999,
+        "description": "OnePlus Nord 4 5G price in India starts from ₹29,999. It is available at lowest price on Croma in India as on Aug 16, 2024. Take a look at OnePlus Nord 4 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-isdXp30yP-w420-h420/oneplus-nord-4-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1sknlfkba?v=1sgq08j"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
         "reviews": []
     },
     {
-        "name": "Pet Needs",
-        "price": 100,
-        "description": "Keep your pet healthy",
-        "ratings": 5,
-        "images": [],
-        "category": "Pet Needs",
-        "seller": "Wonder Aqua Garden",
-        "stock": 43,
-        "numOfReviews": 9,
+        "name": "OnePlus Nord CE 4 Lite 5G",
+        "price": 19325,
+        "description": "OnePlus Nord CE 4 Lite 5G price in India starts from ₹19,325. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at OnePlus Nord CE 4 Lite 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iFvGFPSsu-w420-h420/oneplus-nord-ce-4-li.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1t96jkm9v?v=1sfme33"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus 12 5G",
+        "price":54905,
+        "description": "OnePlus 12 5G price in India starts from ₹54,905. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at OnePlus 12 5G detailed specifications and feature",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-ioNeUvJVN-w420-h420/oneplus-12-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1y2tx91pl?v=1shxsx0"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus Nord 3 5G",
+        "price": 22189,
+        "description": "OnePlus Nord 3 5G price in India starts from ₹22,189. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at OnePlus Nord 3 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-icVITNmRp-w420-h420/oneplus-nord-3-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1mxnblktf?v=1sditcw"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus 12R",
+        "price": 38879,
+        "description": "OnePlus 12R price in India starts from ₹38,879. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at OnePlus 12R detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iakzXgVAH-w420-h420/oneplus-12r.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1uql9mkzv?v=1sdisvs"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus 11R 5G",
+        "price": 32099,
+        "description": "OnePlus 11R 5G price in India starts from ₹32,099. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at OnePlus 11R 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iTWs9Sy4Y-w420-h420/oneplus-11r-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd13nudxzb0?v=1ry186w"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus 11R 5G",
+        "price": 32099,
+        "description": "OnePlus 11R 5G price in India starts from ₹32,099. It is available at lowest price on Flipkart in India as on Aug 16, 2024. Take a look at OnePlus 11R 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-iTWs9Sy4Y-w420-h420/oneplus-11r-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd13nudxzb0?v=1ry186w"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus 13R",
+        "price": 45990,
+        "description": "OnePlus 13R expected price in India starts from ₹45,990. Take a look at OnePlus 13R detailed specifications and featur",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-inR10LURP-w420-h420/oneplus-13r.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1cxr5fr5p?v=1s6boin"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus Nord CE 3 5G",
+        "price": 45990,
+        "description": "OnePlus Nord CE 3 5G price in India starts from ₹18,999. It is available at lowest price on shope in India as on Aug 16, 2024. Take a look at OnePlus Nord CE 3 5G detailed specifications and features.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "https://cdn1.smartprix.com/rx-idEgUmuTV-w420-h420/oneplus-nord-ce-3-5g.webp"
+            },
+            {
+                "image": "https://www.smartprix.com/ui/img/specs/pd1p2vvw021?v=1sdit7k"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "shope",
+        "stock": 10,
+        "numOfReviews": 15,
         "reviews": []
     }
+   
+   
+   
 ]
