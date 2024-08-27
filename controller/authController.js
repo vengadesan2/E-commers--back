@@ -84,6 +84,8 @@ exports.forgotPassword = catchAsyncError( async (req, res, next)=>{
     if(process.env.NODE_ENV === "production"){
         BASE_URL = `${req.protocol}://${req.get('host')}`
     }
+    console.log(BASE_URL);
+    
 
 
     //Create reset url
