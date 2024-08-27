@@ -95,7 +95,7 @@ exports.forgotPassword = catchAsyncError( async (req, res, next)=>{
     try{
         sendEmail({
             email: user.email,
-            subject: "Wonder Aqua Garden Password Recovery",
+            subject: "shoope wep  Password Recovery",
             message
         })
 
