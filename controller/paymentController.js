@@ -9,7 +9,7 @@ exports.processPayment  = catchAsyncError(async(req, res, next) => {
         metadata: { integration_check: "accept_payment"},
         shipping: req.body.shipping
     })
-
+   console.log(req.body)
     res.status(200).json({
         success: true,
         client_secret: paymentIntent.client_secret
