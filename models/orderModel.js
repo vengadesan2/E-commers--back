@@ -73,12 +73,14 @@ const orderSchema = mongoose.Schema({
         default: 0.0
     },
     paymentInfo: {
-        id: {
+        id:{
             type: String,
+            required: false,
             // required: true
         },
         status: {
             type: String,
+            required: false,
             // required: true
         }
     },
