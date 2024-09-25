@@ -3,7 +3,7 @@ const { newOrder, getSingleOrder, myOrders, orders, updateOrder, deleteOrder } =
 const router = express.Router();
 const {isAuthenticatedUser, authorizeRoles} = require('../middlewares/authenticate');
 
-router.route('/order/new').post(newOrder);
+router.route('/order/new').post(isAuthenticatedUser,newOrder);
 router.route('/order/:id').get(isAuthenticatedUser,getSingleOrder);
 router.route('/myorders').get(isAuthenticatedUser,myOrders);
 

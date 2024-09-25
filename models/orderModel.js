@@ -4,80 +4,80 @@ const orderSchema = mongoose.Schema({
     shippingInfo: {
         address: {
             type: String,
-            // required: true
-        }, 
+            required: true
+        },
         country: {
             type: String,
-            // required: true
+            required: true
         },
         city: {
             type: String,
-            // required: true
+            required: true
         },
         phoneNo: {
             type: String,
-            // required: true
+            required: true
         },
         postalCode: {
             type: String,
-            // required: true
+            required: true
         }
     },
     email: {
         type: String,
-        // required: true,
+        required: true,
     },
     orderItems: [{
         name: {
             type: String,
-            // required: true
+            required: true
         },
         quantity: {
             type: Number,
-            // required: true
+            required: true
         },
         image: {
             type: String,
-            // required: true
+            required: true
         },
         price: {
             type: Number,
-            // required: true
+            required: true
         },
         product:{
             type: String,
-            // required: true,
+            required: true,
         }
 
     }],
     itemsPrice: {
         type: Number,
-        // required: true,
+        required: true,
         default: 0.0
     },
     taxPrice: {
         type: Number,
-        // required: true,
+        required: true,
         default: 0.0
     },
     shippingPrice: {
         type: Number,
-        // required: true,
+        required: true,
         default: 0.0
     },
     totalPrice: {
         type: Number,
-        // required: true,
+        required: true,
         default: 0.0
     },
     paymentInfo: {
         id:{
             type: String,
-            // required: true
+            required: true
         },
         status: {
             type: String,
-            // required: true
+            required: true
         }
     },
     paidAt: {
@@ -88,7 +88,7 @@ const orderSchema = mongoose.Schema({
     },
     orderStatus: {
         type: String,
-        // required: true,
+        required: true,
         default: 'Processing'
     },
     createdAt: {

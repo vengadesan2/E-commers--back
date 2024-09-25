@@ -3,7 +3,7 @@ const Order = require('../models/orderModel');
 const Product = require('../models/productModel');
 const ErrorHandler = require('../utils/errorHandle');
 //Create New Order - api/v1/order/new
-exports.newOrder =  catchAsyncError( async (req, res) => {
+exports.newOrder =  catchAsyncError( async (req, res, next) => {
     const {
         orderItems,
         shippingInfo,
@@ -24,8 +24,7 @@ exports.newOrder =  catchAsyncError( async (req, res) => {
         shippingPrice,
         totalPrice,
         paymentInfo,
-        paidAt: Date.now(),
-        // user: req.user.id
+        paidAt: Date.now()
     })
 
     res.status(200).json({
