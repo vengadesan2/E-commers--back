@@ -52,7 +52,7 @@ exports.getSingleOrder = catchAsyncError(async (req, res, next) => {
 
 //Get Loggedin User Orders - /api/v1/myorders
 exports.myOrders = catchAsyncError(async (req, res, next) => {
-    const orders = await Order.find({email: req.body.email});
+    const orders = await Order.find();
 
     res.status(200).json({
         success: true,
