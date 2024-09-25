@@ -3,7 +3,7 @@ const Order = require('../models/orderModel');
 const Product = require('../models/productModel');
 const ErrorHandler = require('../utils/errorHandle');
 //Create New Order - api/v1/order/new
-exports.newOrder =  catchAsyncError( async (req, res, next) => {
+exports.newOrder =  catchAsyncError( async (req, res) => {
     const {
         orderItems,
         shippingInfo,
@@ -14,8 +14,7 @@ exports.newOrder =  catchAsyncError( async (req, res, next) => {
         totalPrice,
         paymentInfo
     } = req.body;
-    console.log(req.body)
-    
+    // console.log(order)
  const order = await Order.create({
         orderItems,
         shippingInfo,
