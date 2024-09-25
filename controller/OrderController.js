@@ -8,17 +8,19 @@ exports.newOrder =  catchAsyncError( async (req, res, next) => {
         orderItems,
         shippingInfo,
         email,
+        id,
         itemsPrice,
         taxPrice,
         shippingPrice,
         totalPrice,
         paymentInfo
     } = req.body;
-    // console.log(order)
+    // console.log(req.body)
  const order = await Order.create({
         orderItems,
         shippingInfo,
          email,
+         id,
         itemsPrice,
         taxPrice,
         shippingPrice,
@@ -35,9 +37,11 @@ exports.newOrder =  catchAsyncError( async (req, res, next) => {
 
 //Get Single Order - api/v1/order/:id
 exports.getSingleOrder = catchAsyncError(async (req, res, next) => {
-    const order = await Order.findById(req.params.id).populate('user', 'name email');
+    console.log(req.params)
+    const order = await Order.findOne(req.params)
+    console.log(order)
     if(!order) {
-        return next(new ErrorHandler(`Order not found with this id: ${req.params.id}`, 404))
+        return next(new ErrorHandler(`Order not found with this id: ${req.params.email}`, 404))
     }
 
     res.status(200).json({
@@ -48,7 +52,7 @@ exports.getSingleOrder = catchAsyncError(async (req, res, next) => {
 
 //Get Loggedin User Orders - /api/v1/myorders
 exports.myOrders = catchAsyncError(async (req, res, next) => {
-    const orders = await Order.find({user: req.user.id});
+    const orders = await Order.find({email: req.body.email});
 
     res.status(200).json({
         success: true,
